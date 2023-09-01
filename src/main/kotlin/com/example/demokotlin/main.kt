@@ -24,7 +24,6 @@ fun evaluateGame () {
         }
     }
 
-    //
 
     if (selection == "Papier") {
         if (selectionEnemy == "Schere") {
