@@ -22,8 +22,7 @@ fun evaluateGame () {
                 println ("Verloren")
             }
         }
-    }
-
+    }//
 
     if (selection == "Papier") {
         if (selectionEnemy == "Schere") {
